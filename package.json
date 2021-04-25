@@ -1,0 +1,30 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0",
+  "private": false,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-less": "^0.0.4",
+    "@zeit/next-sass": "^1.0.1",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "next": "^10.0.6",
+    "next-images": "^1.7.0",
+    "nodemailer": "^6.5.0",
+    "nprogress": "^0.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-hook-form": "^6.15.4",
+    "react-native-progress": "^4.1.2",
+    "yup": "^0.32.9"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^8.2.0"
+  }
+}
