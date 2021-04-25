@@ -168,7 +168,7 @@ export default function Contact(props) {
 
             <style jsx>{`
                 #headline-contact {
-                    background-image: url('/photos/amsterdam.JPG');
+                    background-image: url('../photos/amsterdam.JPG');
                     background-size: 100% 120%;
                 }
                 @media (max-width: 768px) {
