@@ -90,7 +90,7 @@ export default function Portf(props) {
 
             <style jsx>{`
             #headline-portfolio {
-                background-image: url('/photos/forest.JPG');
+                background-image: url('/photos/forest.jpg');
                 background-size: 100% 170%;
             }
 

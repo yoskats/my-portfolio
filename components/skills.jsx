@@ -132,7 +132,7 @@ export default function Skills(props) {
 
         <style jsx>{`
             #headline-skills {
-                background-image: url('/photos/georg.JPG');
+                background-image: url('/photos/georg.jpg');
                 background-size: 100% 190%;
             }
 
