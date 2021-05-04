@@ -59,7 +59,7 @@ export default function Portf(props) {
                         <li>Created views using PHP, HTML, Bootstrap.</li>
                         <li>Used CodeIgniter’s form validation for validating form fields on contacts create and edit pages.</li>
                         <li>Used git and Github to manage the project’s code.</li>
-                        <button className="list-btn"><a href="https://phone1231990.000webhostapp.com/" target="_blank">Visit the siet</a></button>
+                        <button className="list-btn"><a href="https://phone1231990.000webhostapp.com/" target="_blank">Visit the site</a></button>
                         <button className="list-btn"><a href="https://github.com/yoskats/pbproject" target="_blank">Git repository</a></button>
                     </ul>
                     <div className="image-wrapper row">

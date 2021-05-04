@@ -5,7 +5,7 @@ export default function AboutMe(props) {
       <>
         <section className="row align-items-center flex-column mx-0" id="about">
           <div className="col-8 col-sm-6 col-lg-4 my-5">
-            <Image src="/photos/profile.jpg" width={300} height={400} layout="responsive" />
+            <Image src="/photos/profile1.jpg" width={250} height={400} layout="responsive" />
           </div>
 
           <div className="col-sm-12 col-lg-9 mb-5">
@@ -19,9 +19,9 @@ export default function AboutMe(props) {
 
           <div className="col-10 col-lg-6 align-items-center">
             <p className="description mb-0">
-              I’m a highly motivated goal oriented frontend developer, seeking an opportunity to learn and develop myself. 
+              I’m a highly motivated, goal oriented frontend developer, seeking an opportunity to learn and develop myself. 
               I’m a quick learner, deadline driven person, excellent communicator, and most of all a team player. 
-              I enjoy the process of building stuff from scratch, seeing them grow and evolve.
+              I enjoy the process of developing a projects from scratch, seeing them grow and evolve.
             </p>
           </div>
 
